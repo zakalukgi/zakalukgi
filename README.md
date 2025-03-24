@@ -31,5 +31,5 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,java,c,python,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,notion,figma,photoshop,visualstudio,mysql,php,java"" /><br>
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,figma,photoshop,mysql,php,java" /><br>
 </div>
