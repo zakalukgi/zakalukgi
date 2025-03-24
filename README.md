@@ -1,7 +1,7 @@
-## Hello World  👋
+## Bem-vindo ao meu universo de código!👋
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=30&letterSpacing=&duration=3000&pause=1000&color=EF2DFF&center=true&width=435&lines=Ol%C3%A1%2C+prazer%2C+eu+sou+o+Enzo!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=30&letterSpacing=&duration=3000&pause=1000&color=EF2DFF&center=true&width=435&lines=Ol%C3%A1%2C+prazer%2C+me+chamo+Giovana!" alt="Typing SVG" /></a>
 </h1>
 
 <h4 align="center"> Olá, Me chamo Giovana Zakaluk</h4>
