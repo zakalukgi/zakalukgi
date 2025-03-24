@@ -1,9 +1,15 @@
 ## Bem-vindo ao meu universo de código!👋
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=30&letterSpacing=&duration=3000&pause=1000&color=EF2DFF&center=true&width=435&lines=Ol%C3%A1%2C+prazer%2C+me+chamo+Giovana!" alt="Typing SVG" /></a>
+</h1>
+
+
 🎒- Estudante: Analise e Desenvolvimento de Sistemas <br>
 👩🏻‍💻- Pronomes: ela/dela
 
 
-<h3 align="center"> Olá, Me chamo Giovana Zakaluk</h3>
+<h3 align="center"> Quem Sou EU❓ </h3>
 <h4 align="center">Apaixonada por tecnologia, músicas e séries. Estudo Análise e Desenvolvimento de Sistemas e adoro criar coisas novas com programação. Gosto de desafios e estou sempre pronta para aprender e crescer. 🚀</h4><br>
 
 <p align="center">
