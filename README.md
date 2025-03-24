@@ -1,8 +1,40 @@
 ## Bem-vindo ao meu universo de código!👋
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=30&letterSpacing=&duration=3000&pause=1000&color=EF2DFF&center=true&width=435&lines=Ol%C3%A1%2C+prazer%2C+me+chamo+Giovana!" alt="Typing SVG" /></a>
-</h1>
+<style>
+        body {
+            display: flex;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+            background-color: #121212;
+            color: #00A8E8;
+            font-family: 'Arial', sans-serif;
+            overflow: hidden;
+        }
+
+        .animated-text {
+            font-size: 2rem;
+            font-weight: bold;
+            white-space: nowrap;
+            border-right: 4px solid #00A8E8;
+            width: 21ch;
+            animation: typing 3s steps(21) 1s 1 normal both, blink .5s step-end infinite;
+        }
+
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 21ch; }
+        }
+
+        @keyframes blink {
+            from, to { border-color: transparent; }
+            50% { border-color: #00A8E8; }
+        }
+    </style>
+</head>
+<body>
+    <div class="animated-text">Desenvolvedora Full Stack em evolução...</div>
+</body>
 
 <h4 align="center"> Olá, Me chamo Giovana Zakaluk</h4>
 
@@ -31,5 +63,5 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,java,c,python,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,figma,photoshop,mysql,php,java,kaizen" /><br>
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,figma,photoshop,mysql,php,java" /><br>
 </div>
